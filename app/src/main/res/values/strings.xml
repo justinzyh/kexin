@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">小赫兹</string>
+    <string name="splash">引导页</string>
+    <string name="login">登录页面</string>
+</resources>
